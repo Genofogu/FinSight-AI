@@ -1,0 +1,6 @@
+{
+  "name": "FinSight AI",
+  "description": "AI-Powered Smart Invoicing & Financial Intelligence Platform for Small Businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
