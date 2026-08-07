@@ -8,6 +8,16 @@ Instead of manually entering invoice details, users can upload receipts, invoice
 
 ---
 
+## 👥 Project Team
+
+| Role | Member |
+|------|--------|
+| Project Lead & Full Stack AI Developer | **Genofogu** |
+| Full Stack Developer | **Anubhav Dubey** |
+| Backend Developer | **Bhumika Goyal** |
+| AI & Testing Engineer | **Vanshika** |
+| Frontend Developer | **Shradha Sharma** |
+
 #  Features
 
 ##  Smart Invoice OCR
