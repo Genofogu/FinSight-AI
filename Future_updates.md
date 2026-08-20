@@ -147,7 +147,6 @@ The system can compare related fields and identify:
 * Inconsistent amounts
 * Incorrect formats
 * Suspicious combinations
-
 ---
 
 # 3. Explainable Trust Score
