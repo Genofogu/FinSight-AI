@@ -561,7 +561,7 @@ Responsibilities:
 
 ---
 
-## Anubhav Dubey
+## Anubhav 
 
 ### Backend & API Engineer
 
